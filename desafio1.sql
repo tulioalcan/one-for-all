@@ -117,10 +117,13 @@ DROP DATABASE IF EXISTS SpotifyClone;
     (2, 3),
     (3, 2),
     (4, 4),
-    (5, 5),
     (5, 6),
-    (7, 6),
-    (9, 3);
+    (5, 5),
+    (6, 5),
+    (6, 1),
+    (7, 5),
+    (9, 3),
+    (10, 2);
 
 INSERT INTO SpotifyClone.historic (song_id, usuario_id, data_reproducao)
 VALUES
@@ -140,4 +143,3 @@ VALUES
     (4, 8, '2012-03-17 14:56:41'),
     (9, 9, '2022-02-24 21:14:22'),
     (3, 10,'2015-12-13 08:30:22');
-    
