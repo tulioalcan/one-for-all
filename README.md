@@ -5,9 +5,7 @@
 
 O projeto com o codinome One for all, foi realizado através do curso de Desenvolvimento Web da Trybe em que pratiquei todos os conceitos de SQL já ensinados até o bloco 3 do módulo de Backend.
 
-<details>
-
-
+</details>
 <details>
   <summary><strong>👨‍💻 Desenvolvimento</strong></summary><br />
 
